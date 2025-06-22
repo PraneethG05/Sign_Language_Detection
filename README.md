@@ -76,10 +76,10 @@ classifier.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['
 
   <h2>📊 Visualizations</h2>
   <p>Training and validation accuracy over epochs:</p>
-  <img src="assets/train_accuracy.png" alt="Training Accuracy Plot">
+  <img src="assests/sign_acc.png" alt="Training Accuracy Plot">
 
   <p>Training and validation loss over epochs:</p>
-  <img src="assets/train_loss.png" alt="Training Loss Plot">
+  <img src="assests/sign_loss.png" alt="Training Loss Plot">
 
   <h2>🎯 Real-time Gesture Recognition</h2>
   <ul>
